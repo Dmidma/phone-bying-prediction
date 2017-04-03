@@ -1,0 +1,66 @@
+node .A {
+	shape: box;
+	size: 5px;
+	fill-mode: plain;   
+	fill-color: red; 
+}
+
+node .B {
+	shape: box;
+	size: 5px;
+	fill-mode: plain;   
+	fill-color: blue; 
+}
+
+node .C {
+	shape: box;
+	size: 5px;
+	fill-mode: plain;   
+	fill-color: black;
+}
+
+
+
+node .cent1 {
+	shape: box;
+	size: 16px;
+	fill-mode: plain;   
+	fill-color: red;
+}
+
+node .cent2 {
+	shape: box;
+	size: 14px;
+	fill-mode: plain;   
+	fill-color: red;
+}
+
+node .cent3 {
+	shape: box;
+	size: 12px;
+	fill-mode: plain;   
+	fill-color: red;
+}
+
+node .cent4 {
+	shape: box;
+	size: 10px;
+	fill-mode: plain;   
+	fill-color: red;
+}
+
+node .cent5 {
+	shape: box;
+	size: 8px;
+	fill-mode: plain;   
+	fill-color: red;
+}
+
+
+
+
+edge {
+	shape: line;
+	fill-color: #82807b;
+	size: 1px;
+}

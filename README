@@ -1,0 +1,2 @@
+This is a Java application that predicts potential smartphone market for a [sample](http://snap.stanford.edu/data/egonets-Facebook.html) of Facebook users using Graph Data
+Structure, and using [graphstream](http://graphstream-project.org/) project for the visualization.
